@@ -30,7 +30,9 @@ Semantic HTML5 · Modern CSS3 · Accessibility
 
 🔹 Backend
 
-Node.js · Express.js  
+Node.js · Express.js · REST APIs  
+
+Redis · BullMQ
 
 JWT (HTTP-only cookies, Refresh Token Rotation)  
 
@@ -42,49 +44,61 @@ Rate Limiting & Centralized Error Handling
 
 🔹 Database
 
-MongoDB, Mongoose  
+MongoDB, Mongoose
 
 Data Modeling & Schema Design  
 
-Aggregation · Indexing · Transactions (Learning)
+Aggregation Pipelines · Indexing Strategies
 
-🔹 Dev & Tools
+🔹 Testing & DevOps
+
+Vitest · Supertest · MongoMemoryServer
+
+Docker · GitHub Actions (CI/CD)
+
+🔹 Tools & Concepts
 
 Git & GitHub
 
 Postman
 
-Vercel, Render, Chrome DevTools
+Vercel · Render
 
-Docker (Learning) · CI/CD (Planned)  
+Chrome DevTools
+
+Queue-Based-System · API Security 
+
+Idempotency · Concurrency Handling
 
 ---
 
 📌 Featured Projects
 
-🏋️ Fitness Planner (WIP)
+📡 PulseCheck – Distributed Uptime Monitoring System
+
+PulseCheck continuously monitors service availability, detects failures in real time, and manages incident lifecycles using a scalable, queue-driven architecture.
+
+Tech Stack: React · TypeScript · Node.js · Express · MongoDB · Redis · BullMQ · Docker
+
+🌐 Live Demo: http://pulse-check-m0fs.onrender.com 
+
+🐙 Repository: https://github.com/Vishwas2607/pulse-check-mern  
+
+---
+
+🏋️ Fitness Planner – Scalable Backend Architecture 
 
 Role-based fitness planning platform focused on backend architecture and authorization design.
 
 Tech Stack: React · TypeScript · Node.js · Express · MongoDB · JWT · Zod  
 
-🚧 Live Demo: Coming Soon
+🌐 Live Demo: https://fitness-wiki-frontend.onrender.com/  
+
+🐙 Repository: https://github.com/Vishwas2607/fitness-wiki-mern  
 
 ---
 
-📊 Career Dashboard
-
-Secure MERN application for tracking job applications with analytics and structured authentication.  
-
-Tech Stack: React · TypeScript · Node.js · Express · MongoDB · JWT · Zod  
-
-🌐 Live Demo: https://career-dashboard-mern.vercel.app/  
-
-🐙 Repository: https://github.com/Vishwas2607/career-dashboard-mern  
-
----
-
-🎬 FilmBox
+🎬 FilmBox – Performance-Focused Frontend Application 
 
 Frontend-focused application demonstrating API integration, caching, infinite scrolling, and accessibility best practices.  
 
@@ -97,14 +111,6 @@ Tech Stack: React · TypeScript · React Query · Tailwind CSS
 ---
 
 📚 Currently Learning
-
-MongoDB Aggregation & Indexing  
-
-Database Transactions  
-
-Testing (Unit & Integration)  
-
-Docker & CI/CD  
 
 System Design  
 
