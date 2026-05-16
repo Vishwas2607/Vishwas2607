@@ -20,55 +20,63 @@ Currently focused on strengthening my backend expertise while improving DSA and 
 
 🔹 Frontend
 
-React · TypeScript · JavaScript (ES6+)  
+- React · TypeScript · JavaScript (ES6+)  
 
-React Query · Context API · Tailwind CSS · shadcn/ui  
+- React Query · Context API · Tailwind CSS · shadcn/ui  
 
-Framer Motion · React Hook Form · Zod  
+- Framer Motion · React Hook Form · Zod  
 
-Semantic HTML5 · Modern CSS3 · Accessibility
+- Semantic HTML5 · Modern CSS3 · Accessibility
+
+<br>
 
 🔹 Backend
 
-Node.js · Express.js · REST APIs  
+- Node.js · Express.js · REST APIs  
 
-Redis · BullMQ
+- Redis · BullMQ
 
-JWT (HTTP-only cookies, Refresh Token Rotation)  
+- JWT (HTTP-only cookies, Refresh Token Rotation)  
 
-Role-Based Access Control (RBAC) 
+- Role-Based Access Control (RBAC) 
 
-Validation & Security Middleware 
+- Validation & Security Middleware 
 
-Rate Limiting & Centralized Error Handling  
+- Rate Limiting & Centralized Error Handling  
+
+<br>
 
 🔹 Database
 
-MongoDB, Mongoose
+- MongoDB, Mongoose
 
-Data Modeling & Schema Design  
+- Data Modeling & Schema Design  
 
-Aggregation Pipelines · Indexing Strategies
+- Aggregation Pipelines · Indexing Strategies
+
+<br>
 
 🔹 Testing & DevOps
 
-Vitest · Supertest · MongoMemoryServer
+- Vitest · Supertest · MongoMemoryServer
 
-Docker · GitHub Actions (CI/CD)
+- Docker · GitHub Actions (CI/CD)
+
+<br>
 
 🔹 Tools & Concepts
 
-Git & GitHub
+- Git & GitHub
 
-Postman
+- Postman
 
-Vercel · Render
+- Vercel · Render
 
-Chrome DevTools
+- Chrome DevTools
 
-Queue-Based-System · API Security 
+- Queue-Based-System · API Security 
 
-Idempotency · Concurrency Handling
+- Idempotency · Concurrency Handling
 
 ---
 
@@ -84,7 +92,7 @@ Tech Stack: React · TypeScript · Node.js · Express · MongoDB · Redis · Bul
 
 🐙 Repository: https://github.com/Vishwas2607/pulse-check-mern  
 
----
+<br>
 
 🏋️ Fitness Planner – Scalable Backend Architecture 
 
@@ -96,7 +104,7 @@ Tech Stack: React · TypeScript · Node.js · Express · MongoDB · JWT · Zod
 
 🐙 Repository: https://github.com/Vishwas2607/fitness-wiki-mern  
 
----
+<br>
 
 🎬 FilmBox – Performance-Focused Frontend Application 
 
